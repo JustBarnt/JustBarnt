@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @functnal
+- 👋 Hi, I’m @JustBarnt
 - 👀 I’m interested in Machine Learning, Game Development, Competitive Gaming, and Cooking.
 - 🌱 I’m currently learning Machine Learning using Tensorflow.js, ml5.js, and blender.
 
